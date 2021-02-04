@@ -64,5 +64,8 @@
     "webpack": "^5",
     "webpack-cli": "^4",
     "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.4.0"
   }
 }

@@ -6,10 +6,16 @@ module.exports = {
     ],
     darkMode: 'media',
     theme: {
-        extend: {},
+        extend: {
+            fontFamily: {
+                'mono': ['JetBrains Mono', 'monospace'],
+            }
+        },
     },
     variants: {
         extend: {},
     },
-    plugins: [],
+    plugins: [
+        require('@tailwindcss/typography'),
+    ],
 }

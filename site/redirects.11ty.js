@@ -7,18 +7,12 @@ module.exports = class Redirect {
 
     // Hardcode some redirects here
     static canonical = [
-        {
-            from: `/here`,
-            to: `/there`,
-        },
+        {},
     ]
 
     // Hardcode some aliases here
     static aliases = [
-        {
-            from: `/then`,
-            to: `/now`,
-        },
+        {},
     ]
 
     data() {

@@ -1,0 +1,59 @@
+==================================================================                                      
+https://keybase.io/alwaysblank                                                                          
+--------------------------------------------------------------------                                    
+
+I hereby claim:
+
+  * I am an admin of https://www.alwaysblank.dev
+  * I am alwaysblank (https://keybase.io/alwaysblank) on keybase.
+  * I have a public key ASAj55iqUB2wQQmtkaeY9Q-h-6F-W83CUyJoO6KcJxJlxQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012023e798aa501db04109ad91a798f50fa1fba17e5bcdc25322683ba29c271265c50a",
+      "host": "keybase.io",
+      "kid": "012023e798aa501db04109ad91a798f50fa1fba17e5bcdc25322683ba29c271265c50a",
+      "uid": "ecc2cbd8f1f515b9125ec2a0ee359319",
+      "username": "alwaysblank"
+    },
+    "merkle_root": {
+      "ctime": 1612751679, 
+      "hash": "f8278a123d2da0d3da9db325cf2114fb3ddd2067cdc916f5210b88a38aef4090098874a95a1b3a787005bae1abb884cc69b1456a000a8db09e35209854d09758",
+      "hash_meta": "e3fb7273101472509924d17def183aea0efa619fa9a2ab8e034d8addd78a07fd",
+      "seqno": 19042872
+    },
+    "service": {
+      "entropy": "+3uuQMp4RKU5NtQvlY9cW1vv",
+      "hostname": "www.alwaysblank.dev",
+      "protocol": "https:" 
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1612751707,
+  "expire_in": 504576000,
+  "prev": "0be398639acf7d94d34d109f8ce95fbc42c6e35c89e5acb0b5839c148803d594",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgI+eYqlAdsEEJrZGnmPUPofuhflvNwlMiaDuinCcSZcUKp3BheWxvYWTE
+SpcCCsQgC+OYY5rPfZTTTRCfjOlfvELG41yJ5aywtYOcFIgD1ZTEIBw6XBHGH3HNd3vEKH4gfBKsIo7sELR0GGshNEFO/pFiAgHCo3Np
+Z8RAj0r92RedXvRMwx5vJ3B3AuB7pdPcqC2J4jR8h5NE5ze876+Vfr/LT1TCPHNe+Sz3FyHYO5gMMaLummxhRbaAB6hzaWdfdHlwZSCk
+aGFzaIKkdHlwZQildmFsdWXEIPcDJUqTL6M7dQ20zXSSV1K5sJZz9bgWLR5u9ixZ0Ehvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alwaysblank
+
+==================================================================

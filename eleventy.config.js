@@ -21,6 +21,7 @@ module.exports = function (conf) {
         "site/files": "/files/",
         "site/_build": "/",
         "site/favicons": "/",
+        "site/.well-known/keybase.txt": "/.well-known/keybase.txt",
     });
 
     /**

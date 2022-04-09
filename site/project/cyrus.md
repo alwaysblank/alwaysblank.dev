@@ -1,6 +1,9 @@
 ---
 title: Cyrus
 description: A weird experiment in generating HTML with PHP.
+eleventyNavigation:
+  key: Cyrus
+  parent: Projects
 layout: project.njk
 attributes:
   - label: Language

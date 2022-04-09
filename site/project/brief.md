@@ -1,6 +1,9 @@
 ---
 title: Brief
 description: A simple tool for passing around collections of variable structured data.
+eleventyNavigation:
+  key: Brief
+  parent: Projects
 links:
   - url: https://github.com/alwaysblank/brief
     label: Source Code (GitHub)

@@ -1,6 +1,9 @@
 ---
 title: Plumbing
 description: Small tools for small tasks in WordPress and ACF.
+eleventyNavigation:
+  key: Plumbing
+  parent: Projects
 attributes:
   - label: Type
     content: Collection of Small Tools

@@ -1,0 +1,28 @@
+---
+layout: page.njk
+---
+
+<aside class="text-sm border p-4 border-gray-300 w-full">
+ {% if attributes.length > 0 %}
+  <dl>
+  {% for item in attributes %}
+   <div class="flex">
+   <dt class="font-bold pr-4">{{ item.label }}</dt>
+   <dd>{{ item.content }}</dd>
+   </div>
+  {% endfor %}
+  </dl>
+  {% endif %}
+  
+ {% if links.length > 0 %}
+   <ul>
+    {% for link in links %}
+      <li><a href="{{ link.url }}">{{ link.label }}</a></li>
+    {% endfor %}
+   </ul>
+ {% endif %}
+</aside>
+
+<div>
+ {{ content | safe }}
+</div>

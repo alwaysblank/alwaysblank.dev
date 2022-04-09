@@ -1,0 +1,25 @@
+// Overrides for particular prose behavior.
+
+// If we've set list-none, then we really don't want a list.
+.prose ul.list-none > li, 
+.prose ol.list-none > li {
+  padding-left: 0;
+}
+
+.prose ul.list-none > li:before, 
+.prose ol.list-none > li:before {
+  display: none;
+}
+
+// Definition lists have no good default styling, so add some.
+.prose dl {
+  margin-bottom: 1.5em;
+}
+
+.prose dt {
+  font-weight: bold;
+}
+
+.prose dl > dt + dd {
+    margin-bottom: 1rem;
+}

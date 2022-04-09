@@ -4,7 +4,7 @@ layout: index.njk
 
 Hi! I'm Ben, a web developer.
 
-When I'm building sites, I usually use [WordPress](https://wordpress.org), [Statamic](https://statamic.com), or [11ty](https://www.11ty.dev/)--in fact, this site is built on 11ty!
+When I'm building sites, I usually use [WordPress](https://wordpress.org), [Statamic](https://statamic.com), or [11ty](https://www.11ty.dev/)--in fact, *this* site is built on 11ty!
 
 As part of the [Roots team](https:roots.io), I help build, maintain, and support a popular framework for WordPress development.
 

@@ -1,7 +1,7 @@
 ---
 title: Cyrus
 description: A weird experiment in generating HTML with PHP.
-layout: tool.njk
+layout: project.njk
 attributes:
   - label: Language
     content: PHP

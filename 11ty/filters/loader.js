@@ -1,1 +1,3 @@
-module.exports = conf => {}
+module.exports = conf => {
+  require('./taggedCollection.js')(conf)
+}

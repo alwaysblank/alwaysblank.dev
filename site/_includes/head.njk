@@ -1,6 +1,10 @@
 <head>
     <meta charset="utf-8">
-    <title>{{ title }}</title>
+    {% if title -%}
+    <title>{{ title }} - Always Blank</title>
+    {%- else %}
+    <title>Always Blank</title>
+    {%- endif %}
     <meta name="description" content="{{ description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 

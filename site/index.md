@@ -1,5 +1,7 @@
 ---
 layout: index.njk
+title: Hello There
+description: "Web site for web developer Ben Martinez-Bateman."
 ---
 
 Hi! I'm Ben, a web developer.

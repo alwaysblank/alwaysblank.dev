@@ -1,9 +1,9 @@
 <nav class="text-center">
   {%- set navPages = collections.all | eleventyNavigation -%}
-  <ul>
+  <ul class="nav-primary">
     {% for page in navPages %}
       <li class="inline-block">
-        <a href="{{ page.url }}">{{ page.title }}</a>
+        <a href="{{ page.url }}" class="underline">{{ page.title }}</a>
       </li>
     {% endfor %}
   </ul>

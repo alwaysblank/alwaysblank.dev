@@ -4,3 +4,6 @@
 # Webpack asset destination
 /site/_build
 .webpack
+
+# Track styles vendor dir
+!/assets/styles/vendor

@@ -1,8 +1,17 @@
 ---
-layout: page.njk
+layout: app.njk
 ---
+{% extends "body.njk" %}
 
-<aside class="text-sm border p-4 border-gray-300 w-full">
+{% block header %}
+  <header class="text-center">
+    {% include "partials/header.njk" %}
+    <a href="/projects/" class="text-xs">< Projects</a>
+  </header>
+{% endblock %}
+
+{% block main %}
+<aside class="prose text-sm border p-4 border-gray-300 w-full my-8 md:my-10">
  {% if attributes.length > 0 %}
   <dl>
   {% for item in attributes %}
@@ -23,6 +32,7 @@ layout: page.njk
  {% endif %}
 </aside>
 
-<div>
+<div class="prose">
  {{ content | safe }}
 </div>
+{% endblock %}

@@ -1,18 +1,23 @@
 ---
-layout: page.njk
+layout: app.njk
 ---
+{% extends "body.njk" %}
 
-<ul class="list-none">
-  {%- set projects = collections.all | tagged_collection( tags ) -%}
-  {% for project in projects  %}
-    {%- if project.data.layout != 'list.njk' -%}
-      <li>
-        <a class="text-lg" href="{{ project.url }}">{{ project.data.title }}</a>
-        {%- if project.data.description -%}
-          <p>{{ project.data.description }}</p>
-        {%- endif -%}
-      </li>
-    {%- endif -%}
-  {% endfor %}
-</ul>
+{% block main %}
+<div class="prose">
+  <ul class="list-none">
+    {%- set projects = collections.all | tagged_collection( tags ) -%}
+    {% for project in projects  %}
+      {%- if project.data.layout != 'list.njk' -%}
+        <li>
+          <a class="text-lg" href="{{ project.url }}">{{ project.data.title }}</a>
+          {%- if project.data.description -%}
+            <p>{{ project.data.description }}</p>
+          {%- endif -%}
+        </li>
+      {%- endif -%}
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}
 

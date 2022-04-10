@@ -1,0 +1,16 @@
+<div class="flex flex-col justify-center items-center min-h-screen">
+    <div class="flex flex-col justify-center p-8 md:p-10 lg:p-20 font-mono">
+      {% block header %}
+        <header>
+          {% include "partials/header.njk" %}
+        </header>
+      {% endblock %}
+
+      {% block main %}
+        {{ content | safe }}
+      {% endblock %}
+
+      {% block footer %}
+      {% endblock %}
+    </div>
+</div>

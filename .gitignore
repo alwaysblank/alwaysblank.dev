@@ -7,3 +7,7 @@
 
 # Track styles vendor dir
 !/assets/styles/vendor
+
+# Ephemeral things that should not be tracked
+node_modules
+.env

@@ -1,0 +1,62 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "Person",
+  "@id": "https://ben.alwaysblank.dev",
+  "name": "Ben Martinez-Bateman",
+  "alternateName": "Ben",
+  "nationality": "American",
+  "birthPlace": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "OR",
+      "addressCountry": "USA"
+    }
+  },
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "Roots",
+      "sameAs": [
+        "https://roots.io/",
+        "https://github.com/roots",
+        "https://twitter.com/rootswp"
+      ]
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Dodge College of Film and Media Arts",
+      "sameAs": "https://www.chapman.edu/dodge"
+    }
+  ],
+  "gender": "Male",
+  "Description": "Natural fiber enthusiast",
+  "jobTitle": "Senior Web Engineer",
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Human Made",
+      "sameAs": [
+        "https://humanmade.com",
+        "https://twitter.com/humanmadeltd",
+        "https://www.linkedin.com/company/human-made-limited",
+        "https://github.com/humanmade"
+      ]
+    }
+  ],
+  "url": "https://ben.alwaysblank.dev",
+  "image": "https://res.cloudinary.com/djd6kxozp/image/upload/f_auto,q_auto/w_1080/v1/alwaysblank.dev/ben.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "OR",
+    "addressCountry": "USA"
+  },
+  "sameAs": [
+    "https://sunny.garden/@belisarius",
+    "https://github.com/alwaysblank",
+    "https://photos.alwaysblank.org",
+    "https://twitter.com/isalwaysblank"
+  ]
+}

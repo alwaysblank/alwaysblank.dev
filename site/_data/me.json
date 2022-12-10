@@ -1,5 +1,5 @@
 {
-  "@context": "http://www.schema.org",
+  "@context": "https://www.schema.org",
   "@type": "Person",
   "@id": "https://ben.alwaysblank.dev",
   "name": "Ben Martinez-Bateman",

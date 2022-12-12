@@ -9,3 +9,8 @@ package = "netlify-plugin-cache"
 
 [build.processing]
     skip_processing = false
+
+[[redirects]]
+  from = "/.well-known/webfinger"
+  to = "https://sunny.garden/.well-known/webfinger?resource=acct:belisarius@sunny.garden"
+  status = 200

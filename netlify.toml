@@ -18,4 +18,4 @@ package = "netlify-plugin-cache"
 [[redirects]]
   from = "/@ben"
   to = "https://sunny.garden/@belisarius"
-  status = 200
+  status = 302

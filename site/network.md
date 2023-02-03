@@ -1,8 +1,8 @@
 ---
 layout: page.njk
-title: Stuff
+title: Network
 eleventyNavigation:
-    key: Stuff
+    key: Network
 ---
 Part of the Always Blank family of products.
 

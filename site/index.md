@@ -4,6 +4,7 @@ title: Hello There
 description: "Web site for programmer Ben Martinez-Bateman."
 eleventyNavigation:
   key: Home
+  order: 1
 ---
 
 Hi! I'm Ben, a web developer.

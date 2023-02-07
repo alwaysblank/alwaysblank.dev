@@ -1,6 +1,6 @@
 ---
 layout: index.njk
-title: Hello There
+title: Hi Folks
 description: "Web site for programmer Ben Martinez-Bateman."
 eleventyNavigation:
   key: Home

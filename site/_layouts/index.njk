@@ -7,7 +7,7 @@ layout: app.njk
   <div class="prose my-8">
    {{ content | safe }}
 
-    <form name="contact" method="POST" data-netlify="true" class="rounded-md grid grid-cols-4 gap-4 md:w-4/5 mx-auto">
+    <form name="contact" method="POST" data-netlify="true" netlify-honeypot="fax-number" class="rounded-md grid grid-cols-4 gap-4 md:w-4/5 mx-auto">
         <h2 class="col-span-4 text-center">Get in Touch</h2>
         <label class="font-bold col-start-1 col-span-1" for="email-field">Email</label>
         <input type="email" name="email" id="email-field" required class="col-start-2 col-span-3 rounded-md bg-blue-100 py-2 px-4" />

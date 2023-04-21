@@ -13,6 +13,6 @@ When I'm building sites, I usually use [WordPress](https://wordpress.org), [Stat
 
 As part of the [Roots team](https:roots.io), I help build, maintain, and support a popular framework for WordPress development.
 
-I'm a Senior Web Engineer at [Human Made](https://humanmade.com), and I used to work at [Murmur Creative](https://murmurcreative.com). I've been building websites since I was in high school, which is an uncomfortably long time ago at this point.
+I'm a Senior Engineer at [Flatiron Software Co.](https://www.flatiron.software/), and I previously worked as a Senior Web Engineer at [Human Made](https://humanmade.com), and a web developer at [Murmur Creative](https://murmurcreative.com). I've been building websites since I was in high school, which is an uncomfortably long time ago at this point.
 
 If you're interested in seeing some of the other stuff I've done, I have several things I've built up on [GitHub](https://www.github.com/alwaysblank). I also have an 11ty starter kit called [Elfin](https://11in.alwaysblank.dev) that I put together to make building 11ty sites a little easier--I used it to build this one!

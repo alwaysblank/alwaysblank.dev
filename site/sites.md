@@ -1,6 +1,9 @@
 ---
 layout: page.njk
 title: Site List
+eleventyNavigation:
+    key: Work
+    order: 3
 ---
 This is a short list of sites I have worked on or built. 
 

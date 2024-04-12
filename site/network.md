@@ -3,7 +3,7 @@ layout: page.njk
 title: Network
 eleventyNavigation:
     key: Network
-    order: 3
+    order: 4
 ---
 Part of the Always Blank family of products.
 

@@ -1,4 +1,5 @@
 ---
+layout: page.njk
 title: Site List
 ---
 This is a short list of sites I have worked on or built. 

@@ -26,7 +26,7 @@ They're all meant to be simple and one-note:
 Do one thing, and do it well, so you can mix and match as needed.
 
 Normalize Links
-: Makes it a bit easier to use and interact with the arrays returns by ACF's "link" field type.
+: Makes it a bit easier to use and interact with the arrays returned by ACF's "link" field type.
 
 Templates
 : Allows you to set specific directories for custom templates for pages (and custom post types) in WordPress.

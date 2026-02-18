@@ -11,3 +11,4 @@
 # Ephemeral things that should not be tracked
 node_modules
 .env
+.idea

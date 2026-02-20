@@ -1,0 +1,217 @@
+{
+  "basics": {
+    "name": "Ben Martinez-Bateman",
+    "label": "Programmer",
+    "image": "https://res.cloudinary.com/djd6kxozp/image/upload/f_auto,q_auto/w_1080/v1/alwaysblank.dev/ben.png",
+    "email": "ben@alwaysblank.dev",
+    "phone": "(714) 514-3304",
+    "url": "https://www.alwaysblank.dev",
+    "summary": "I've been programming and tinkering with computers since I first got my hands on them back in the 90s. I love a challenge and my favorite thing way to learn is being confronted with a problem I don't yet know how to solve—which is why when it comes to programming I'm entirely self-taught. I'm comfortable being responsible for an entire project or feature—most of my career has seen me operating, effectively, as a team of one—but I also love working with others as part of a team, both to learn and to mentor.",
+    "location": {
+      "city": "Gresham",
+      "countryCode": "US",
+      "region": "Oregon"
+    },
+    "profiles": [
+      {
+        "network": "Mastodon",
+        "username": "belisarius",
+        "url": "https://sunny.garden/@belisarius"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "alwaysblank",
+        "url": "https://www.linkedin.com/in/alwaysblank/"
+      },
+      {
+        "network": "Twitter",
+        "username": "isalwaysblank",
+        "url": "https://twitter.com/isalwaysblank"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Human Made",
+      "position": "Senior Web Engineer",
+      "url": "https://humanmade.com",
+      "startDate": "2021-03-01",
+      "endDate": "2023-01-31",
+      "summary": "In this position I provide both technical leadership and high-quality code, building robust expert-level solutions for clients and mentoring other engineers.",
+      "highlights": [
+        "Promoted to Senior in under a year",
+        "Built system used to successfully migrate a major news website to different architecture with no downtime",
+        "Trusted by clients to implement mission-critical functionality and bugfixes",
+        "Consistent positive feedback from coworkers"
+      ]
+    },
+    {
+      "name": "Murmur Creative",
+      "position": "Developer",
+      "startDate":  "2015-09-01",
+      "endDate": "2021-03-01",
+      "summary": "As part of a small team at a well-regarded agency with high-profile clients, I was trusted to manage my own time and priorities and delivered work that was consistently well-received. For most sites I built I was responsible for building and maintaining the entire stack, from server provisioning to front-/back-end development. As the team grew near the end of my tenure, I was involved in hiring and training/mentoring other developers.",
+      "highlights": [
+        "Built and launched 33 sites",
+        "Pioneered and advocated for new platforms and development systems that increased ROI and client satisfaction"
+      ]
+    },
+    {
+      "name": "Freelancer",
+      "position": "Jack-of-all-Trades",
+      "startDate":  "2014-01-01",
+      "endDate": "2015-09-01",
+      "summary": "I had ongoing an ongoing relationship with Strangely Compelling Multimedia where I provided web development and localization editing for video games. I also worked with Marina Martinez Consulting, Murmur Creative, and others on contracts to build and launch websites.",
+      "highlights": [
+        "Writer for Fallen Legion video game",
+        "Localization editing and voice direction for Guilty Gear Xrd video game",
+        "Interactive online book that allowed visitors to flip through books too old to physically handle"
+      ]
+    },
+    {
+      "name": "Aksys Games",
+      "position": "Localization Editor",
+      "startDate":  "2008-02-01",
+      "endDate": "2014-01-01",
+      "summary": "My primary role was Localization Editor, where I editing translated scripts for phrasing, clarity, and content. I also developed multiple marketing websites for numerous Aksys releases, wrote and edited several trailers for games we released, and served as the de factor office IT department.",
+      "highlights": [
+        "Localization Editor on 999, Virtue's Last Reward, BlazBlue, and Hakuoki",
+        "Built and managed the website store and forums"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Roots",
+      "position": "Volunteer",
+      "url": "https://roots.io/",
+      "startDate": "2018-07-01",
+      "summary": "Roots develops one of the best sets of open source tools for building, deploying, and maintaining modern WordPress websites. As a member of the core team, I contribute to development and help to manage our forums."
+    },
+    {
+      "Organization": "Foster Area Business Association",
+      "position": "Board Secretary",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "As the board secretary for a local business association, I attended all board meetings and supported the success of member businesses."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dodge College of Film and Media Arts, Chapman University",
+      "url": "https://www.chapman.edu/dodge",
+      "area": "Film Production",
+      "studyType": "Bachelor",
+      "startDate": "2003-06",
+      "endDate": "2007-06"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Editor's Choice - Virtue's Last Reward",
+      "date": "2012-10-24",
+      "awarder": "IGN",
+      "summary": "I was the Localization Editor for Virtue's Last Reward."
+    },
+    {
+      "title": "Handheld Game of the Year - Virtue's Last Reward",
+      "date": "2012-12-22",
+      "awarder": "GameSpot",
+      "summary": "I was the Localization Editor for Virtue's Last Reward."
+    },
+    {
+      "title": "Human Wikipedia Award",
+      "date": "2019-12-01",
+      "awarder": "Murmur Creative",
+      "summary": "Awarded during our yearly holiday party."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Localizing the whole living story",
+      "publisher": "MultiLingual Magazine",
+      "releaseDate": "2012-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Senior",
+      "keywords": [
+        "git",
+        "linux",
+        "Vagrant",
+        "VirtualBox",
+        "PHPStorm",
+        "Visual Studio Code"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "Senior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Sass/SCSS",
+        "Browser APIs",
+        "webpack"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Senior",
+      "keywords": [
+        "PHP",
+        "WordPress",
+        "Statamic",
+        "Jekyll",
+        "11ty",
+        "Netlify",
+        "linux web server"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "Experienced",
+      "keywords": [
+        "public speaking",
+        "documentation",
+        "creativity",
+        "curiosity",
+        "fast, self-driven learner"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cooking",
+      "keywords": [
+        "tacos",
+        "pasta",
+        "bread"
+      ]
+    },
+    {
+      "name": "Computers",
+      "keywords": [
+        "building",
+        "networking"
+      ]
+    },
+    {
+      "name": "Games",
+      "keywords": [
+        "Dungeons & Dragons",
+        "Destiny 2",
+        "RPGs in general"
+      ]
+    }
+  ]
+}

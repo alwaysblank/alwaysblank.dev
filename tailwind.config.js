@@ -1,3 +1,5 @@
+const colors = require('tailwindcss/colors');
+
 module.exports = {
     purge: [
         './site/**/*.njk',
@@ -11,6 +13,9 @@ module.exports = {
                 'mono': ['JetBrains Mono', 'monospace'],
             }
         },
+        colors: {
+            teal: colors.teal,
+        }
     },
     variants: {
         extend: {},
